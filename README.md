@@ -25,9 +25,3 @@ This is a simple and fun Snake game built using HTML, CSS, and JavaScript. It fe
 - **index.html**: Contains the HTML structure for the game.
 - **style.css**: Provides the styles and layout for the game interface.
 - **script.js**: Implements the game logic, including snake movement, collision detection, and scoring.
-
-## Code Overview
-
-### HTML
-
-The `index.html` file sets up the main structure of the game, including the play area, score display, and modals for game over and difficulty selection.
